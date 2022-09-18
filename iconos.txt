@@ -1,0 +1,8 @@
+<link rel="stylesheet" href="./css/all.min.css">
+
+<i class="fa-brands fa-asymmetrik"></i>
+
+<i class="fa-solid fa-globe"></i>
+
+<i class="fa-solid fa-users"></i>
+
